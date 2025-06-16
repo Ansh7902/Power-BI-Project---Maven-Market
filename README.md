@@ -56,4 +56,4 @@ Revenue segmentation (Price Tiers)
 
 ### 6. Screenshots / Demos
 Example:
-![Market Maven Report Screenshot](https://github.com/Ansh7902/Power-BI-Project---Maven-Market/blob/main/Screenshot%202025-06-16%20174009.png)
+![Market Maven Report Screenshot](https://github.com/Ansh7902/Power-BI-Project---Maven-Market/blob/main/Maven%20Market%20Report%20Screenshot.png)
