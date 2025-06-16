@@ -56,4 +56,4 @@ Revenue segmentation (Price Tiers)
 
 ### 6. Screenshots / Demos
 Example:
-![AdventureWork Report Screenshot](https://github.com/user-attachments/assets/737e83f4-f665-4cf8-be9f-dc23d1808f00)
+![Market Maven Report Screenshot](https://github.com/Ansh7902/Power-BI-Project---Maven-Market/blob/main/Screenshot%202025-06-16%20174009.png)
